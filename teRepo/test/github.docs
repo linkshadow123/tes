@@ -1,0 +1,13 @@
+if file_name:
+                            d = {
+                                "file_name": file_name,
+                                "file_type": file_type,
+                                "file_extension": file_extension,
+                                "file_sha": file_sha,
+                                "file_size_bytes": file_size_bytes,
+                                "file_size_mb": file_size_mb,
+                                "file_path": file_path,
+                                "file_content": file_content_bytes,
+                                "epoch_created_time": epoch_created_time,
+                                "epoch_modified_time": epoch_modified_time
+                            }
